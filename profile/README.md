@@ -188,29 +188,22 @@ AI가 보완한 후보에도 알레르기·비선호 검증을 다시 적용합�
 
 ## 👥 팀 구성
 
-<p align="center">
-  <strong>PM</strong> 구효주 &nbsp;·&nbsp;
-  <strong>Design</strong> 김예빈
-</p>
-
 <table>
   <tr>
+    <td align="center" valign="bottom" width="180"><b>구효주</b></td>
+    <td align="center" valign="bottom" width="180"><b>김예빈</b></td>
     <td align="center" width="180"><a href="https://github.com/huieunkim-dev"><img src="https://github.com/huieunkim-dev.png" width="120" height="120" alt="김희은" /><br /><b>김희은</b></a></td>
     <td align="center" width="180"><a href="https://github.com/9hkmo"><img src="https://github.com/9hkmo.png" width="120" height="120" alt="구혁모" /><br /><b>구혁모</b></a></td>
     <td align="center" width="180"><a href="https://github.com/jmyoo0512"><img src="https://github.com/jmyoo0512.png" width="120" height="120" alt="유재민" /><br /><b>유재민</b></a></td>
     <td align="center" width="180"><a href="https://github.com/mint0326"><img src="https://github.com/mint0326.png" width="120" height="120" alt="정민지" /><br /><b>정민지</b></a></td>
   </tr>
   <tr>
+    <td align="center">PM</td>
+    <td align="center">Design</td>
     <td align="center">Frontend</td>
     <td align="center">Frontend</td>
     <td align="center">Backend</td>
     <td align="center">Backend</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/huieunkim-dev">@huieunkim-dev</a></td>
-    <td align="center"><a href="https://github.com/9hkmo">@9hkmo</a></td>
-    <td align="center"><a href="https://github.com/jmyoo0512">@jmyoo0512</a></td>
-    <td align="center"><a href="https://github.com/mint0326">@mint0326</a></td>
   </tr>
 </table>
 
