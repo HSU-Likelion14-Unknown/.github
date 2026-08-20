@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">BodyBuddy</h1>
+<h1 align="center">바디버디</h1>
 
 <p align="center">
   <strong>오늘 먹은 식사에, 더 나은 선택 하나.</strong>
@@ -42,6 +42,33 @@
 
 바디버디는 긴 영양 리포트를 건네고 판단을 맡기지 않습니다. 오늘의 식사에서
 가장 부족한 부분을 찾고, 바로 실천할 수 있는 음식 하나까지 연결합니다.
+
+## 사용자에게 직접 물었습니다
+
+건강한 식사의 필요성은 알지만, 무엇을 더 먹어야 할지 판단하는 일은 여전히
+어렵습니다. 바디버디는 20대 청년 129명의 목소리에서 이 문제와 서비스 가능성을
+확인했습니다.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>60.5%</strong><br />
+      식사 시 영양 균형을<br />고려하기 어렵다
+    </td>
+    <td align="center" width="33%">
+      <strong>52.7%</strong><br />
+      건강하게 먹기 위해 무엇을 선택할지<br />고민되거나 어렵다
+    </td>
+    <td align="center" width="33%">
+      <strong>79.1%</strong><br />
+      AI 분석·보완 음식 추천 서비스를<br />이용할 의향이 있다
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>자체 설문 · 2026.08.15–16 · n=129</sub>
+</p>
 
 ## 주요 기능
 
@@ -146,7 +173,7 @@
 AI가 보완한 후보에도 알레르기·비선호 검증을 다시 적용합니다.
 
 > [!NOTE]
-> BodyBuddy는 일상적인 식습관 관리를 돕는 서비스이며 의료 진단이나 치료를 대체하지
+> 바디버디는 일상적인 식습관 관리를 돕는 서비스이며 의료 진단이나 치료를 대체하지
 > 않습니다. 알레르기 필터 결과도 최종 확인이 필요합니다.
 
 ## 기술 스택
@@ -158,40 +185,6 @@ AI가 보완한 후보에도 알레르기·비선호 검증을 다시 적용합�
 | **AI · Data** | OpenAI API · 국가표준식품성분 DB 10.4 · 2025 한국인 영양소 섭취기준 |
 | **Contract**  | OpenAPI                                                             |
 | **Deploy**    | Vercel · Docker · GitHub Actions · Gabia                            |
-
-## 사용자에게 직접 물었습니다
-
-건강한 식사의 필요성은 알지만, 무엇을 더 먹어야 할지 판단하는 일은 여전히
-어렵습니다. 바디버디는 20대 청년 129명의 목소리에서 이 문제와 서비스 가능성을
-확인했습니다.
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>60.5%</strong><br />
-      식사 시 영양 균형을<br />고려하기 어렵다
-    </td>
-    <td align="center" width="33%">
-      <strong>52.7%</strong><br />
-      건강하게 먹기 위해 무엇을 선택할지<br />고민되거나 어렵다
-    </td>
-    <td align="center" width="33%">
-      <strong>79.1%</strong><br />
-      AI 분석·보완 음식 추천 서비스를<br />이용할 의향이 있다
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <sub>자체 설문 · 2026.08.15–16 · n=129</sub>
-</p>
-
-## Repositories
-
-| Repository                                                             | Description                                    |
-| ---------------------------------------------------------------------- | ---------------------------------------------- |
-| [BodyBuddy-FE](https://github.com/HSU-Likelion14-Unknown/BodyBuddy-FE) | 모바일 웹·PWA 클라이언트와 사용자 인터랙션     |
-| [BodyBuddy-BE](https://github.com/HSU-Likelion14-Unknown/BodyBuddy-BE) | 식사 분석·추천 엔진·캘린더·친구방 API와 데이터 |
 
 ## 👥 팀 구성
 
